@@ -1,0 +1,20 @@
+body {
+	min-width: 300px;
+	background-color: #eff2c4;
+	color: #727757;
+}
+
+
+h1 {
+	font-size: 12pt;
+	text-shadow: 1px 1px 0px white;
+}
+
+
+.entry {
+	cursor: pointer;
+	border: 2px groove #ebf2c5;
+	border-radius: 4px;
+	margin: 4pt 0;
+	padding: 4pt;
+}
